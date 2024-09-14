@@ -139,6 +139,14 @@ By implementing this project we will manage the AWS Workload management and opti
 
 
 
+# Project Running State view during office hours
+
+## Sample video:
+
+https://github.com/user-attachments/assets/6256f373-592b-4990-8e53-13269506ee94
+
+
+
    
 
    
